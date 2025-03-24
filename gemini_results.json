@@ -1,0 +1,58 @@
+{
+    "com.Version1": {
+        "type": "genuine",
+        "reason": "The app is the official Punjab National Bank mobile banking app, with a large install base and developer contact info. Negative reviews are addressed, indicating responsiveness."
+    },
+    "com.axis.mobile": {
+        "type": "genuine",
+        "reason": "The app is developed by Axis Bank Ltd., a known financial institution.  Its features align with typical mobile banking apps. Negative reviews cite technical issues, not fraudulent activity."
+    },
+    "com.bankofbaroda.mconnect": {
+        "type": "genuine",
+        "reason": "The app is published by Bank of Baroda, a legitimate Indian bank.  Its features align with typical mobile banking apps. Negative reviews cite technical issues, not fraudulent activity."
+    },
+    "com.canarabank.mobility": {
+        "type": "genuine",
+        "reason": "The app is published by Canara Bank, a known legitimate institution.  Features align with typical mobile banking services. Reviews, while containing some complaints, don't indicate fraudulent activity."
+    },
+    "com.coindcx.btc": {
+        "type": "suspected",
+        "reason": "High leverage offered (up to 100x) in crypto futures trading significantly increases risk and potential for losses, raising suspicion.  While regulatory compliance is mentioned, further independent verification is needed."
+    },
+    "com.branch_international.branch.branch_demo_android": {
+        "type": "suspected",
+        "reason": "High APR (72.7%) despite claiming 2%-4% and significant fees.  While claiming RBI registration, discrepancies in stated interest rates raise concerns."
+    },
+    "com.enrich.enrichkyc": {
+        "type": "suspected",
+        "reason": "Discrepancy between reported and real installs (100k+ vs 452k).  Low review count despite high installs warrants further investigation."
+    },
+    "app.chart.ai": {
+        "type": "fraud",
+        "reason": "Discrepancy between reported and real installs (5000 vs 9630).  Zero ratings and reviews despite a release date of Dec 31, 2024 and last update Mar 18, 2025 is highly suspicious. Needs further investigation."
+    },
+    "cashloan.emi.loan.calculator.emis.calculates": {
+        "type": "fraud",
+        "reason": "Discrepancy between reported and real installs (100+ vs 306).  While the app description claims no loan services, the name and some features suggest potential for future monetization beyond ads."
+    },
+    "calculator.loancalculator.financecalculator.loan": {
+        "type": "suspected",
+        "reason": "Discrepancy between reported and real installs (10k+ vs 15745).  Generic app name and description raise concerns. Needs further investigation into review authenticity and data accuracy."
+    },
+    "com.Balooshy": {
+        "type": "unknown_id",
+        "reason": "App not found on Play Store"
+    },
+    "com.akab.loanpro.easycalculate.emicalculator": {
+        "type": "suspected",
+        "reason": "Discrepancy between reported and real installs (1000+ vs 1951).  New app with low engagement metrics and ads raises concerns. Requires further investigation."
+    },
+    "com.appsrx.rxminer": {
+        "type": "fraud",
+        "reason": "The app promises unrealistic returns from cryptocurrency mining without requiring user investment or technical knowledge.  This is a hallmark of a fraudulent 'get-rich-quick' scheme."
+    },
+    "com.emiloan.optioncalculator.sipcalculator.stockcalculator.loanemicalculator": {
+        "type": "suspected",
+        "reason": "Newly released app (Dec 3, 2024) with suspiciously high installs (76915) compared to ratings (2197).  Developer information lacks transparency.  Requires further investigation."
+    }
+}
