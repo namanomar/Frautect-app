@@ -1,6 +1,6 @@
-# Fautecl 
+# Frautecl 
 
-The **Fautecl** is designed to analyze applications on the Google Play Store and determine whether they exhibit fraudulent behavior. The system utilizes a combination of web scraping, historical data analysis, and a **Large Language Model (LLM)** (Gemini API) to classify apps as **fraudulent, suspected, or genuine** based on specific criteria.
+The **Frautecl** is designed to analyze applications on the Google Play Store and determine whether they exhibit fraudulent behavior. The system utilizes a combination of web scraping, historical data analysis, and a **Large Language Model (LLM)** (Gemini API) to classify apps as **fraudulent, suspected, or genuine** based on specific criteria.
 
 ![alt text](image.png)
 
