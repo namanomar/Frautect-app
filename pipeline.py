@@ -80,11 +80,6 @@ def call_gemini(app_details, reviews):
 ### **Reviews**  
 {json.dumps(reviews_serializable, indent=2)}
 
-    ## **STRICT FRAUD DETECTION RULES**
-    - If the app has **excessive permissions**, fake reviews, or misleading descriptions, classify it as `"fraud"`.
-    - If there are **clear signs of manipulation** (e.g., fake installs, repeated keywords, aggressive monetization), classify as `"fraud"`.
-    - If the app shows **some suspicious behavior** but lacks conclusive evidence, classify as `"suspected"`.
-    - **Only classify as `"genuine"` if there is NO sign of fraud.** Justify why the app is safe.
 
 ## **Output JSON Format**  
 Ensure your response follows **this exact JSON format**:  
