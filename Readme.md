@@ -43,7 +43,7 @@ The detection process follows these key steps:
 The final output follows this JSON structure:
 ```json
 {
-    "type": "fraud" | "genuine" | "suspected",
+    "type": "fraud" or "genuine" or  "suspected",
     "reason": "Concise explanation (max 300 chars)"
 }
 ```
