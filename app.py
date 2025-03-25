@@ -10,7 +10,7 @@ def extract_app_id(play_store_url):
 
 # Streamlit App UI
 def main():
-    st.set_page_config(page_title="Frautecl", layout="centered")
+    st.set_page_config(page_title="Frautecl ", layout="centered")
 
     # Header with an Image
     st.image("https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png", width=120)
